@@ -1,4 +1,4 @@
-# RealReview Backend
+# RealReview
 
-This repo is backend of an Image Uploader to AWS
+This repo is of an Image Uploader to AWS
 

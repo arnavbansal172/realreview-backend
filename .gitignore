@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+realven
+
+# Environment variables file
+.env
+
+# Uploaded images directory
+backend/uploads/
+
+__pycache__
+main.cpython-312.pyc
+
+# Database files (if using a local file-based DB like SQLite - not applicable for PostgreSQL, but good practice)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+#images
+img1.jpg
+img2.jpg
+img3.jpg
+
